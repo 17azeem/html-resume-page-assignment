@@ -32,6 +32,6 @@ The layout follows a simple and readable structure similar to the provided examp
 
 ## 🔹 Output Screenshot
 ### Full Resume View
-![](screenshots/resume_skills.png)
-![](screenshots/resume_projects.png)
+![resume_start](screenshots/resume_skills.png)
+![resume_end](screenshots/resume_projects.png)
 
